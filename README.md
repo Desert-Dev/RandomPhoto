@@ -9,4 +9,4 @@ The app supports light and dark mode
 * Networking with JSON and API
 * JSON Parsing with Decodable protocol
 
--![Sample Gif](Demo.gif)
+-![Sample Gif](DemoDos.gif)
